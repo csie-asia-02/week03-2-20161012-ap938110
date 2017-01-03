@@ -11,8 +11,12 @@ public class ex04_103021087 {
 		int y = 0;
 		if (v1 < -1) {
 			System.out.println("y=" + (3 * Math.pow(v1, 2)));
-		} else if (v1 >= -1 && v1 <= 1) {
+		} 
+		else if (v1 >= -1 && v1 <= 1) {
 			System.out.println("y=" + (Math.pow(v1, 3) + 3 * (v1 - 3)));
-		} else if (v1 > 1) {
+		} 
+		else if (v1 > 1) {
 			System.out.println("y=" + (2 * v1 + 3));
-		}}}
+		}
+	}
+}
