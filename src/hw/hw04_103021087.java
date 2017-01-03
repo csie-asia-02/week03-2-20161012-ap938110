@@ -13,4 +13,4 @@ public class hw04_103021087 {
 			sum+=i*(i+1);
 		}
 		System.out.println("答"+sum);
-	
+		}}
