@@ -17,4 +17,7 @@ public class hw02_103021087 {
 	    	System.out.println("體重為"+((h-70)*0.6));
 	    }else{
 	    	System.out.println("性別錯誤");
-}}}}
+}
+		}
+	}
+}
