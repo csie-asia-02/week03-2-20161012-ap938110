@@ -11,4 +11,6 @@ public class ex02_103021087 {
 			System.out.println(a +"偶數");
 		}else{
 			System.out.println(a +"奇數");
-	}}}
+	}
+	}
+}
