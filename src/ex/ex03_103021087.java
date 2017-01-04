@@ -5,11 +5,18 @@
  * Author: 1040210XX 周永振老師
  */
 
-public class ex03_1040210XX {
+public class ex03_103021087 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Scanner scn = new Scanner(System.in);
+		System.out.print("X點:");
+		int x  =scn.nextInt();
+		System.out.print("Y點:");
+		int y  =scn.nextInt();
+		if(x<=200&&y<=200)
+			System.out.println("在園內");
+		else
+			System.out.println("在園外");
 	}
 
 }
